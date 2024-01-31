@@ -145,4 +145,9 @@ img {
     .steps .col{
         width: 100%;
     }
+
+    .why-us .col{
+        width: 100%;
+        padding: 2rem;
+    }
 }
